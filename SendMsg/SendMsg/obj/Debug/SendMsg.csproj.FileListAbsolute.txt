@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\SendMsg\SendMsg\bin\Debug\SendMsg.exe.config
+C:\Users\Administrator\Desktop\SendMsg\SendMsg\bin\Debug\SendMsg.exe
+C:\Users\Administrator\Desktop\SendMsg\SendMsg\bin\Debug\SendMsg.pdb
+C:\Users\Administrator\Desktop\SendMsg\SendMsg\obj\Debug\SendMsg.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SendMsg\SendMsg\obj\Debug\SendMsg.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SendMsg\SendMsg\obj\Debug\SendMsg.exe
+C:\Users\Administrator\Desktop\SendMsg\SendMsg\obj\Debug\SendMsg.pdb
+C:\Users\Administrator\Desktop\SendMsg\SendMsg\bin\Debug\Newtonsoft.Json.Net20.dll
